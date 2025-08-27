@@ -14,4 +14,10 @@
 
 - 1. What is [intB] minus [intA], plus [posInt], minus [posInt]. 
 
-- 2. What is the quotient and remainder,  What is [intB] minus [intA], plus  [posInt], minus [posInt], divided by [posInt]
+- 2. What is the quotient and remainder of,  [intB] minus [intA], plus  [posInt], minus [posInt], divided by [posInt]
+
+- 3. What is [negInt] multiplied by [negInt]
+
+- 4. What is [posInt] multiplied by [negInt]
+
+- 5. What is [negInt] divided
