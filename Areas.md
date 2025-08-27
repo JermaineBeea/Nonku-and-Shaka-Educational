@@ -1,21 +1,21 @@
-## There are thre main areas:
+# There are thre main areas:
 - Mathematics
 - Linguistics
 - Physics
 
-# Mathematics
+## Mathematics
 - Arithmetics
 - Algebra
 - Modular Arithmetic
 - Number Theory
 - Application
 
-# Lingustics
+## Lingustics
 - Reading
 - Writing
 - Comprehension
 
-# Physics
+## Physics
 - Kinematics
 - Basic chemistry
 - Dynamics
