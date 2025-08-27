@@ -8,5 +8,5 @@
 - Negative numbers are numbers that are less than zero.
 
 - The product of two `positive numbers` equals a `positive numbers`.
-- Example: `positive three [+ 3]` multiplied by `positive two [+ 2]` is equal to `positive six [+ 6]`.
+Example: `positive three [+ 3]` multiplied by `positive two [+ 2]` is equal to `positive six [+ 6]`.
 
